@@ -17,6 +17,8 @@ public class Program {
         Exercicio7.VetoresIguais();
 
         Exercicio8.ConcatArray();
+
+        Exercicio9.GerarVetorC();
     }
 
 }
