@@ -25,6 +25,8 @@ public class Program {
         Exercicio11.ProdutoEscalar();
 
         Exercicio12.ProdutoPositivos();
+
+        Exercicio13.FibonacciTermos();
     }
 
 }
