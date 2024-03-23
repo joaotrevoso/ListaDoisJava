@@ -4,6 +4,8 @@ public class Program {
         
         Exercicio1.ArrayCincoNumeros();
 
+        Exercicio2.VetorPosicoesValor();
+
     }
 
 }
