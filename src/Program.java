@@ -19,6 +19,8 @@ public class Program {
         Exercicio8.ConcatArray();
 
         Exercicio9.GerarVetorC();
+
+        Exercicio10.InverterArray();
     }
 
 }
