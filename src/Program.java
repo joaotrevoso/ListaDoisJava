@@ -23,6 +23,8 @@ public class Program {
         Exercicio10.InverterArray();
 
         Exercicio11.ProdutoEscalar();
+
+        Exercicio12.ProdutoPositivos();
     }
 
 }
