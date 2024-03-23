@@ -6,6 +6,8 @@ public class Program {
 
         Exercicio2.VetorPosicoesValor();
 
+        Exercicio3.DobroSegundoVetor();
+
     }
 
 }
