@@ -21,6 +21,8 @@ public class Program {
         Exercicio9.GerarVetorC();
 
         Exercicio10.InverterArray();
+
+        Exercicio11.ProdutoEscalar();
     }
 
 }
