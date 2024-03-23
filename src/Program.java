@@ -15,6 +15,8 @@ public class Program {
         Exercicio6.MediaPonderada();
 
         Exercicio7.VetoresIguais();
+
+        Exercicio8.ConcatArray();
     }
 
 }
