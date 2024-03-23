@@ -13,6 +13,8 @@ public class Program {
         Exercicio5.NumeroNVezesNoArray();
 
         Exercicio6.MediaPonderada();
+
+        Exercicio7.VetoresIguais();
     }
 
 }
