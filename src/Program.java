@@ -29,6 +29,8 @@ public class Program {
         Exercicio13.FibonacciTermos();
 
         Exercicio14.MaiorUltimaPosicao();
+
+        Exercicio15.PreencherMaior();
     }
 
 }
