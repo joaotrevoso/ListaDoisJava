@@ -8,6 +8,8 @@ public class Program {
 
         Exercicio3.DobroSegundoVetor();
 
+        Exercicio4.MaiorQueN();
+
     }
 
 }
