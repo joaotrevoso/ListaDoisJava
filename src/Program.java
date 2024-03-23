@@ -11,6 +11,8 @@ public class Program {
         Exercicio4.MaiorQueN();
         
         Exercicio5.NumeroNVezesNoArray();
+
+        Exercicio6.MediaPonderada();
     }
 
 }
